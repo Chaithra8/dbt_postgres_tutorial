@@ -1,0 +1,5 @@
+version: 2
+
+seeds:
+  - name: film_locations_in_san_francisco
+    description: film information in san_francisco
